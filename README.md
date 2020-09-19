@@ -10,3 +10,6 @@ I will show you step by step of:
 3. How to pre-process the data with TF-IDF Vectorizer from sklearn
 4. How to perform K-Means clustering with using Scikit-Learn library
 5. How to evaluate the results of the clustering
+
+Youtube video:
+https://www.youtube.com/watch?v=ORpDAUQUnkU
